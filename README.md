@@ -1,4 +1,4 @@
-# Advanced Lottery  Project
+# Advanced Blockchain Lottery  Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
